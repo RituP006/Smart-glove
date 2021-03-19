@@ -17,8 +17,8 @@ Arduino based Smart glove for deaf and mute people, that coverts sign language t
 #### An .ino file is attached for your reference. To know more about how to use it check [here](https://file.org/extension/ino).
 
 #### Glove:
-<img src="signs/setup.jpeg" height=180 width= 250>
+<img src="signs/setup.jpeg" height=180 width= 300>
 
 #### Signs: 
 
-<img src="signs/sign-1.jpeg" height=300 width= 200> &nbsp; &nbsp; &nbsp; <img src="signs/sign-2.jpeg" height=300 width= 200> &nbsp; &nbsp; &nbsp; <img src="signs/sign-3.jpeg" height=300 width= 200> &nbsp;
+<img src="signs/sign-1.jpeg" height=310 width= 200> &nbsp; &nbsp; &nbsp; <img src="signs/sign-2.jpeg" height=310 width= 200> &nbsp; &nbsp; &nbsp; <img src="signs/sign-3.jpeg" height=310 width= 200> &nbsp;
