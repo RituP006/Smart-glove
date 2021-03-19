@@ -1,7 +1,7 @@
 # Smart-glove
 Arduino based Smart glove for deaf and mute people, that coverts sign language to text.
 
-## What it's about?
+## What it does?
 > Sign language is the medium through which we can communicate with deaf and dumb people. It is a non-verbal form of interaction which is found amongst deaf communities in the world. 
 
 > We designed an improved sensing glove that will make the sign language understandable to everyone and also monitors the pulse rate. 
